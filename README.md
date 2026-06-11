@@ -8,8 +8,11 @@ I'm a Computer Science student passionate about software development, web develo
 - Python
 - Web Development
 
-  ## Education
+## Education
 I hold a Diploma in Information Technology and am currently pursuing a Bachelor's Degree in Computer Science.My academic background has provided me with a strong foundation in programming, software development, networking, databases, and computer systems.
 
  ## Goals
 My goal is to become a skilled software developer and contribute to innovative technology solutions that make a positive impact.
+
+##How to reach me
+Email:gladwellmuthoni19@gmail.com
