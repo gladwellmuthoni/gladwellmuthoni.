@@ -47,10 +47,12 @@ I am a **Computer Science student** currently building my skills in *software de
 - Become a skilled software developer
 - Learn full-stack web development
 - Improve problem-solving skills
-###Links
+
+
 - [My GitHub](https://github.com/gladwellmuthoni)
 - [W3Schools](https://www.w3schools.com)
-###Tools
+
+##table
 | Tool | Purpose | Link |
 |------|---------|------|
 | Git | Version control | https://git-scm.com |
