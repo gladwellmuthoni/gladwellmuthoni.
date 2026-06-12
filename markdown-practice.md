@@ -2,7 +2,6 @@
 ### This semester
 I want to improve my **programming** skills, learn *web development*, and practice using `Git`.
 
-##Links
 [my GitHub profile] (https://github.com/gladwellmuthoni/gladwellmuthoni.)
 [cww tech] (https://www.cwwtechafrica.com/)
 
@@ -30,7 +29,8 @@ I want to improve my **programming** skills, learn *web development*, and practi
 - [ ] Build a personal portfolio website
 - [ ] Learn JavaScript basics
 
-'''A block of code using C language
+'''C 
+
 #include <stdio.h>
 
 int main() {
