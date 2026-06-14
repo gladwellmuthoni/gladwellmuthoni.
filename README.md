@@ -3,7 +3,7 @@ Hello!😊👋 I'm Gladwell Muthoni.
 ## About Me
 I'm a Computer Science student passionate about software development, web development, and problem-solving. I enjoy learning new technologies, building projects, and continuously improving my technical skills.
 
-## Skills
+## compitence
 - HTML, CSS, JavaScript
 - Python
 - Web Development
@@ -13,6 +13,3 @@ I hold a Diploma in Information Technology and am currently pursuing a Bachelor'
 
  ## Goals
 My goal is to become a skilled software developer and contribute to innovative technology solutions that make a positive impact.
-
-##How to reach me
-Email:gladwellmuthoni19@gmail.com
